@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../results"
+		},
+	],
+	"settings": {
+        "python.defaultInterpreterPath": "C:\\Users\\zahra\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+    }
+}

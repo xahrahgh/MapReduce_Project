@@ -1,0 +1,3 @@
+39: Iris-versicolor
+54: Iris-virginica
+96: Iris-setosa

@@ -1,0 +1,4 @@
+mrjob
+pandas
+numpy
+nltk
