@@ -1,22 +1,4 @@
-## **Project Structure**
 
-├── code                           # Python scripts for tasks 
-│   ├── Frobenius_norm.py
-│   ├── knn_mapreduce.py
-│   ├── Reverse_web_graph.py
-│   ├── top_keywords_per_genre.py
-├── data                           # Inputs directory 
-│   ├── A.txt
-│   ├── Iris.csv
-│   ├── movies.csv
-│   ├── web-Google.txt
-├── results                        # Outputs directory
-│   ├── frobenius_output.txt
-│   ├── knn_output.txt
-│   ├── reverse_web_graph_output.txt
-│   ├── top_keywords_by_genre.txt
-├── README.md                      # Project description and instructions
-├── requirements.txt               # Required Python dependencies
 
 ## **Python Version**
    - This project requires Python **3.11.5**.
